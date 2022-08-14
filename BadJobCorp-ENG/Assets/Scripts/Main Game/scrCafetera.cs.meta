@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fdb3a38ca74902d45982a29b47fe3f9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jugador: {fileID: 7538593231540724887, guid: 454b5ac11d9a31c47a219f39e6ba09e6,
+      type: 3}
+  - hover: {fileID: 5717906135246188370, guid: 65acb84467375eb4e8012c22e37966e9, type: 3}
+  - smell: {fileID: 5717906135246188370, guid: 65acb84467375eb4e8012c22e37966e9, type: 3}
+  - soundCant: {fileID: 5717906135246188370, guid: 65acb84467375eb4e8012c22e37966e9,
+      type: 3}
+  - soundFinish: {instanceID: 0}
+  - soundSwallow: {fileID: 7480207234017086795, guid: 31d0bac29bd73744bae9c1c686f6e8d7,
+      type: 3}
+  - texto: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 119534ec322b2ba478056a966ff285be, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
