@@ -3,8 +3,8 @@ This was my very first game that I published ever, back in 2020.
 Since I was still new in game development and the Unity Engine, the code is not very efficent, and there are a lot of unused features and assets.
 
 Playable version:
-https://asdonaur.itch.io/bad-job-corporation-english
-https://asdonaur.itch.io/bad-job-corporation-enespanol
+- https://asdonaur.itch.io/bad-job-corporation-english
+- https://asdonaur.itch.io/bad-job-corporation-enespanol
 
 
 ## Important notes
